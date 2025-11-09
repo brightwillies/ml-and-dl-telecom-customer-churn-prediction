@@ -8,7 +8,7 @@ An end-to-end machine learning solution that predicts customer attrition for tel
 
 ## 📊 Live Demo
 
-🚀 **Try the app here:** [Live Streamlit App](hhttps://telecom-customer-churn-prediction-bb.streamlit.app/)
+🚀 **Try the app here:** [Live Streamlit App](https://telecom-customer-churn-prediction-bb.streamlit.app/)
 
 ## 🎯 Project Overview
 
